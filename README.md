@@ -65,7 +65,7 @@ int main()
 
 ![Basic example](./examples/basic.png)
 
-Also, matplotlib-cpp also supports being given multiple plot commands. However these have to come in triplets of `(x, y, fmt)` where `fmt` is a formatting string, such as `r--`.
+Also, matplotlib-cpp supports being given multiple plot commands. However these have to come in triplets of `(x, y, fmt)` where `fmt` is a formatting string, such as `r--`.
 ```cpp
 #include <cmath>
 #include "matplotlibcpp.h"
